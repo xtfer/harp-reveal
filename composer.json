@@ -1,0 +1,15 @@
+{
+    "name": "previousnext/agov-training-intro",
+    "description": "An introduction to aGov",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Christopher Skene",
+            "email": "chris@previousnext.com.au"
+        }
+    ],
+    "require": {
+        "components/revealjs": "2.6.1"
+    }
+}
